@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hi.gif" align="center">
+  <img src="https://github.com/patelparixit07/patelparixit07/blob/master/hi.gif?raw=true" align="center">
 </p>
 
 
@@ -8,9 +8,9 @@
 <p align="center"><i>Find me around the web 🌎:</i></p>
 <p align='center'>
   <a href="https://dev.to/patelparixit07">
-    <img src="dev.png" alt="Parixit Patel's DEV Profile" height="30" width="30">
+    <img src="https://github.com/patelparixit07/patelparixit07/blob/master/dev.png?raw=true" alt="Parixit Patel's DEV Profile" height="30" width="30">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/parixit-patel-10b87671/">
-    <img src="linkedin.png" alt="Parixit Patel's LinkedIn Profile" height="30" width="30">
+    <img src="https://github.com/patelparixit07/patelparixit07/blob/master/linkedin.png?raw=true" alt="Parixit Patel's LinkedIn Profile" height="30" width="30">
   </a>
 </p>
