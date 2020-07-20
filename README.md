@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/patelparixit07/patelparixit07/blob/master/hi.gif?raw=true" align="center">
+  <img src="https://github.com/patelparixit07/patelparixit07/blob/master/hi.gif?raw=true" align="center" height="120px;">
 </p>
 
 
-<p align="center"><i>I'm a <b>Software Developer</b> looking to develop my skills further particularly around programming & technologies. Some technologies I enjoy working with include <b>Laravel, jQuery, VueJs, MySql</b>. I'm continuously trying to improve my skills on these technologies. Also have a passion for learning and sharing my knowledge with others.</i>
+<p align="center"><i>I'm a <b>Software Developer</b>, Care deeply about building things that are usable and pleasant for the most number of people possible. Some technologies I enjoy working with include <b>Laravel, jQuery, VueJs, MySql</b>. Also have a passion for learning and sharing my knowledge with others. I love working with people to do things bigger than I could accomplish alone.</i>
 
 <p align="center"><i>Find me around the web 🌎:</i></p>
 <p align='center'>
